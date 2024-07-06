@@ -1,5 +1,6 @@
 ## Mosh Hamedani
-[YouTube channel](https://codewithmosh.lt.emlnk9.com/Prod/link-tracker?redirectUrl=aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZjJTJGcHJvZ3JhbW1pbmd3aXRobW9zaA==&sig=5NEFJgW4YLJfPviWzUcv4CsrQoXqPgddYM7smT3BpBf5&iat=1720289800&a=%7C%7C89545604%7C%7C&account=codewithmosh%2Eactivehosted%2Ecom&email=0DP%2F3BzpkUQ6DJi2DFaTUgoU3O6Au0ieJ8EERdERXKty%3AopRBaUCHxboUBq4%2Bp9rrSAkC%2FeR3uOSb&s=033952ba7711342a336c13c47f088047&i=655A883A24A5879)
+[YouTube channel](https://codewithmosh.lt.emlnk9.com/Prod/link-tracker?redirectUrl=aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZjJTJGcHJvZ3JhbW1pbmd3aXRobW9zaA==&sig=5NEFJgW4YLJfPviWzUcv4CsrQoXqPgddYM7smT3BpBf5&iat=1720289800&a=%7C%7C89545604%7C%7C&account=codewithmosh%2Eactivehosted%2Ecom&email=0DP%2F3BzpkUQ6DJi2DFaTUgoU3O6Au0ieJ8EERdERXKty%3AopRBaUCHxboUBq4%2Bp9rrSAkC%2FeR3uOSb&s=033952ba7711342a336c13c47f088047&i=655A883A24A5879)  
+[Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE&t=844s)
 <br>
 
 
