@@ -22,7 +22,8 @@ if [ $? -ne 0 ]; then
 fi
 ```
 - To run commit avoiding pre-commit hook use **--no-verify** option
-Formatting:
+  
+**Formatting:**
 - \033[1;33m sets the text to **yellow and bold**.
 - \033[1;31m sets the text to **red and bold**.
 - \033[0m resets the text formatting.
