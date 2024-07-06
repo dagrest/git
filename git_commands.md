@@ -1,5 +1,11 @@
 # Git Commands
 
+## configuration
+
+**git config --global -e**: open git global configuration file  
+
+<br>
+      
 ## stash
 
 **git stash push -m "my_stash_name"**: Stash with name - "my_stash_name"
